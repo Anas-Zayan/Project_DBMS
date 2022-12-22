@@ -3,6 +3,6 @@ A transaction implements the ACID properties. It shows the product, depot, and s
 Team 09, the following are the members who contributed to this Project_DBMS.
 Anas Hussain Mohammed
 Nagulmeera Shaik (U01851546),
-Rajesh Orsu
+Rajesh Orsu,
 Nagulmeera Shaik (U01872916).
  
