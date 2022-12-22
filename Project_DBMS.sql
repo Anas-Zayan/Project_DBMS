@@ -55,4 +55,4 @@
 --update depot set dep = 'dd1' where dep = 'd1';
 --commit;
 --select * from depot;
-select * from stock;
+--select * from stock;
